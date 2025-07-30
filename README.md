@@ -1,6 +1,6 @@
 # Arch Linux Hyprland Dotfiles
 
-minimal gruvbox rice for Hyprland on Arch Linux.
+minimal gruvbox rice for hyprland on arch Linux.
 
 ## 🛠️ System Setup
 
