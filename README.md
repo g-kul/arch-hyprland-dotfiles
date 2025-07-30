@@ -18,7 +18,7 @@ minimal gruvbox rice for hyprland on arch Linux.
 - **Theme**: Gruvbox Dark
 - **Icons**: Tela Circle
 - **Font (UI)**: San Francisco
-- **Terminal Font**: dejaVu Sans Mono
+- **Terminal Font**: dejaVu Sans Mono (Noto Color Emoji fallback)
 - **Shell**: zsh (with Powerlevel10k)
 
 ## 📸 Screenshots
