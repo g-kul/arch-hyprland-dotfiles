@@ -1,0 +1,57 @@
+window {
+    margin: 0;
+    border-radius:3px;
+    border: solid 2px;
+    border-color: rgba(255, 255, 186, 1.0);
+    padding: 2;
+    background-color: RGBA(40, 40, 40, 1.0);
+    color: #ffffba;
+    font-family: "SF Pro Rounded Medium";
+    font-size: 19px;
+}
+
+#input {
+    margin: 8px;
+    padding: 6px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgba(0,0,0,0.1);
+    color: #ffffba;
+}
+
+#input:focus {
+    outline: none;
+    box-shadow: 0 0 0 0px #fabd2f;
+
+
+#entry {
+    padding: 8px;
+    margin: 4px;
+    border-radius: 5px;
+    border-color: transparent;
+    border: solid 0px;
+    border-color: transparent;
+    color: #ffffba;
+}
+
+#entry:selected {
+    background-color: #5c7070;
+    border: solid 2px;
+    border-color: transparent;
+    color: #000000;
+}
+
+#outer-box, #inner-box, #scroll {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+}
+
+#img {
+    margin-right: 8px;    
+}
+
+image, label {
+    background-color: transparent;
+    box-shadow: none;
+}
