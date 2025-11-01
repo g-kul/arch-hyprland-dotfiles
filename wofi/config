@@ -6,4 +6,4 @@ allow_markup=true
 prompt=Search:
 normal_window=false
 allow_images=true
-term=foot
+term=kitty

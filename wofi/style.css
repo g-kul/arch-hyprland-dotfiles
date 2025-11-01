@@ -1,13 +1,13 @@
 window {
     margin: 0;
-    border-radius:3px;
+    border-radius:2px;
     border: solid 2px;
-    border-color: rgba(255, 255, 186, 1.0);
+    border-color: rgba(122,162,247, 1.0);
     padding: 2;
-    background-color: RGBA(40, 40, 40, 1.0);
-    color: #ffffba;
+    background-color: RGBA(26, 27, 38, 1.0);
+    color: #c0caf5;
     font-family: "SF Pro Rounded Medium";
-    font-size: 19px;
+    font-size: 20px;
 }
 
 #input {
@@ -21,7 +21,7 @@ window {
 
 #input:focus {
     outline: none;
-    box-shadow: 0 0 0 0px #fabd2f;
+    box-shadow: 0 0 0 0px #ffffba;
 
 
 #entry {
@@ -35,7 +35,7 @@ window {
 }
 
 #entry:selected {
-    background-color: #5c7070;
+    background-color: #3c3836;
     border: solid 2px;
     border-color: transparent;
     color: #000000;
